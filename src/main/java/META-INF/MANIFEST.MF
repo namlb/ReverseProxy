@@ -1,0 +1,46 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: hystrix-javanica-1.5.18.jar netflix-commons-util-0.3.0.jar j
+ ackson-datatype-jsr310-2.9.10.jar rxjava-reactive-streams-1.2.1.jar spr
+ ing-expression-5.1.14.RELEASE.jar spring-boot-2.1.13.RELEASE.jar reacti
+ ve-streams-1.0.3.jar logback-core-1.2.3.jar servo-core-0.12.21.jar netf
+ lix-statistics-0.1.1.jar rxnetty-contexts-0.4.9.jar httpclient-4.5.11.j
+ ar spring-cloud-starter-netflix-hystrix-2.1.5.RELEASE.jar HdrHistogram-
+ 2.1.9.jar tomcat-embed-core-9.0.31.jar hystrix-serialization-1.5.18.jar
+  log4j-api-2.11.2.jar ribbon-2.3.0.jar spring-boot-starter-web-2.1.13.R
+ ELEASE.jar jackson-annotations-2.9.10.jar ribbon-transport-2.3.0.jar zu
+ ul-core-1.3.1.jar snakeyaml-1.23.jar validation-api-2.0.1.Final.jar com
+ mons-collections-3.2.2.jar spring-boot-starter-actuator-2.1.13.RELEASE.
+ jar aspectjweaver-1.9.5.jar spring-cloud-netflix-zuul-2.1.5.RELEASE.jar
+  spring-boot-autoconfigure-2.1.13.RELEASE.jar httpcore-4.4.13.jar logba
+ ck-classic-1.2.3.jar jackson-module-parameter-names-2.9.10.jar classmat
+ e-1.4.0.jar rxjava-1.3.8.jar spring-cloud-netflix-ribbon-2.1.5.RELEASE.
+ jar guava-15.0.jar ribbon-core-2.3.0.jar archaius-core-0.7.6.jar microm
+ eter-core-1.1.10.jar log4j-to-slf4j-2.11.2.jar jackson-databind-2.9.10.
+ 3.jar jackson-core-2.9.10.jar hystrix-metrics-event-stream-1.5.18.jar b
+ cpkix-jdk15on-1.64.jar spring-boot-actuator-2.1.13.RELEASE.jar spring-c
+ ore-5.1.14.RELEASE.jar spring-cloud-context-2.1.5.RELEASE.jar commons-c
+ odec-1.11.jar hystrix-core-1.5.18.jar commons-lang-2.6.jar javax.annota
+ tion-api-1.3.2.jar tomcat-embed-el-9.0.31.jar LatencyUtils-2.0.3.jar ja
+ ckson-datatype-jdk8-2.9.10.jar jersey-apache-client4-1.19.1.jar spring-
+ beans-5.1.14.RELEASE.jar spring-cloud-commons-2.1.5.RELEASE.jar jsr311-
+ api-1.1.1.jar spring-cloud-starter-netflix-zuul-2.1.5.RELEASE.jar sprin
+ g-aop-5.1.14.RELEASE.jar spring-cloud-netflix-hystrix-2.1.5.RELEASE.jar
+  jersey-client-1.19.1.jar slf4j-api-1.7.30.jar spring-cloud-starter-net
+ flix-archaius-2.1.5.RELEASE.jar jsr305-3.0.1.jar jackson-module-afterbu
+ rner-2.9.10.jar spring-security-rsa-1.0.9.RELEASE.jar spring-boot-actua
+ tor-autoconfigure-2.1.13.RELEASE.jar bcprov-jdk15on-1.64.jar spring-clo
+ ud-netflix-archaius-2.1.5.RELEASE.jar tomcat-embed-websocket-9.0.31.jar
+  spring-web-5.1.14.RELEASE.jar spring-boot-starter-tomcat-2.1.13.RELEAS
+ E.jar spring-context-5.1.14.RELEASE.jar spring-boot-starter-logging-2.1
+ .13.RELEASE.jar asm-5.0.4.jar spring-boot-starter-2.1.13.RELEASE.jar sp
+ ring-jcl-5.1.14.RELEASE.jar jersey-core-1.19.1.jar ribbon-loadbalancer-
+ 2.3.0.jar spring-webmvc-5.1.14.RELEASE.jar spring-boot-starter-json-2.1
+ .13.RELEASE.jar commons-io-2.4.jar rxnetty-servo-0.4.9.jar ribbon-httpc
+ lient-2.3.0.jar spring-cloud-starter-2.1.5.RELEASE.jar commons-lang3-3.
+ 8.1.jar jboss-logging-3.3.3.Final.jar jul-to-slf4j-1.7.30.jar commons-c
+ onfiguration-1.8.jar spring-boot-starter-aop-2.1.13.RELEASE.jar hiberna
+ te-validator-6.0.18.Final.jar spring-cloud-starter-netflix-ribbon-2.1.5
+ .RELEASE.jar spring-security-crypto-5.1.8.RELEASE.jar rxnetty-0.4.9.jar
+  javax.inject-1.jar
+
